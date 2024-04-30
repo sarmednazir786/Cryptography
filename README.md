@@ -1,7 +1,6 @@
-# Cryptography
+# Title: Undoing the Cipher
 Decrypt the text to Solve the challenge: Uk9UMTNzeW50e3BlbnB4cnF9IA==
 
-﻿## Title: Undoing the Cipher
 ## Details:
 * difficulty: Easy
 * category: Cryptography 
